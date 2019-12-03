@@ -39,3 +39,4 @@ if you have connected your repo to the code then you type this in and all the co
 ## Rolling Back Changes
 To discard changes all you have to type in is
 #### git checkout -- file
+_where it says file just put the files name like for me it is README.md_
