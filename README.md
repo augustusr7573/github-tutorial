@@ -17,8 +17,8 @@ Follow the instructions there and when you set that up you should head to this l
 
 ---
 ## Repository Setup
-In order to set up a repository go to github and login then hit the plus sign in the right hand corner then click on new repository give it a name then you click create repository at the bottem you add a description but thats up to you.  
-You also want to be on ssh all the time if you are cloning or connecting the the remote or repository.
+* In order to set up a repository go to github and login then hit the plus sign in the right hand corner then click on new repository give it a name then you click create repository at the bottem you add a description but thats up to you.  
+* You also want to be on ssh all the time if you are cloning or connecting the the remote or repository.
 Now in order to connect your self to the remote to the cloud
 Type git init in the beginning to really start
 #### git add .
@@ -37,3 +37,5 @@ if you have connected your repo to the code then you type this in and all the co
 
 ---
 ## Rolling Back Changes
+To discard changes all you have to type in is
+#### git checkout -- file
